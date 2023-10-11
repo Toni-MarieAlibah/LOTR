@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Charmonman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&family=Charmonman&display=swap');
+body{
+	background-color: #d1be9d !important;
+}
+nav.navbar {
+	background-color: #546234 !important;
+}
+.nav-link{
+color:white !important;
+font-family: 'Autour One', cursive !important;
+font-size: 20px;
+
+}
+
+.navbar-expand-lg .navbar-collapse {
+	display: flex !important;
+    flex-basis: 80% !important;
+}
+.navbar-brand {
+	padding-block:0px;
+
+}
+p{
+	font-family: 'Charmonman', cursive !important;
+	margin:30px;
+}
+#title{
+	font-family: 'Autour One', cursive !important;
+	font-size: 25px;
+}
+.card-img, .card-img-top {
+	border:20px;
+}
+
+.card-body {
+	background-color:#e9e1d1;
+}
+#bottom{
+	margin-bottom: 20px;
+}
+#links{
+	color:white;
+}
+btn{
+	margin:10px !important;
+}
+
+#table-thead{
+	background-color:#e9e1d1 ;
+}
